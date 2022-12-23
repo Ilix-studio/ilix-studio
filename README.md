@@ -1,8 +1,8 @@
 # Hello 👋🤖
 
-Hi, I'm Ilish! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+Hi, I'm Ilish! I'm a software developer who is passionate about building new web apps and messed up with my head.
 
-[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=ilix-studio&theme=dark)](https://github.com/ilix-studio/stats-card)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilix-studio&theme=radical)
 
 
 
