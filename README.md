@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, RTK, NodeJS**
+- 💬 Ask me about **React, RQ, NodeJS**
 
 - 📫 How to reach me **ilishjyoti17@gmail.com**
 
