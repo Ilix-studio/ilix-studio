@@ -2,10 +2,10 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ilix</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
+<h1 align="center">Hi, I'm Ilix. </h1>
+<h3 align="center">A passionate fullStack developer from India, Assam </h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **React Native** **Nest**
 
 - 💬 Ask me about **React, RQ, NodeJS**
 
