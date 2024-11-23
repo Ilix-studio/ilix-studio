@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ilix. </h1>
 <h3 align="center">A passionate fullStack developer from India, Assam </h3>
 
-- 🌱 I’m currently working on **React Native** **Nest**
+- 🌱 I’m currently working on **React Native**, **Nest Microservice**. 
 
 - 💬 Ask me about **React, RQ, NodeJS**
 
