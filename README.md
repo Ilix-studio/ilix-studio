@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ilix</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
